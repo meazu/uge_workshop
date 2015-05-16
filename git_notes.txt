@@ -1,0 +1,4 @@
+Some of the git commands
+git init rep_name
+git add file1
+
