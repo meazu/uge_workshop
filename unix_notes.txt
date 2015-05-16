@@ -1,0 +1,500 @@
+   13  vi Test.java
+   14  javac Test.java
+   15  vi a.java
+   16  javac a.java
+   17  cd ..
+   18  vi a.java
+   19  javac a.java
+   20  rm a.java
+   21  cd day2
+   22  rm a.java
+   23  vi a.java
+   24  javac a.java
+   25  vi a.java
+   26  rm a.java
+   27  vi Test.java
+   28  javac Test.java
+   29  java Test
+   30  java Test
+   31  vi Test.java
+   32  javac Test.java
+   33  vi Test.java
+   34  ll
+   35  ls
+   36  pwd
+   37  cd ../..
+   38  ls
+   39  mkdir self
+   40  cd self
+   41  vi ObjectRef.java
+   42  cd ..
+   43  ls
+   44  cd lectures/
+   45  ls
+   46  cd Day2
+   47  ls
+   48  open Part2-Introduction\ To\ java.pdf 
+   49  vi TestLateBinding.java 
+   50  open Part2-Introduction\ To\ java.pdf 
+   51  cd java/self/
+   52  javac TestEmployee.java
+   53  java TestEmployee
+   54  javac TestEmployee.java
+   55  java TestEmployee
+   56  javac TestEmployee.java
+   57  java TestEmployee
+   58  javac TestEmployee.java
+   59  ls
+   60  pwd
+   61  vi TestEmployee.java 
+   62  javac TestEmployee.java
+   63  javac TestEmployee.java
+   64  java TestEmployee
+   65  cd java/
+   66  ls
+   67  cd self
+   68  ls
+   69  vi ObjectRef.java 
+   70  vi Employee.java
+   71  java Employee.java 
+   72  javac Employee.java 
+   73  vi TestEmployee.java
+   74  javac TestEmployee.java 
+   75  vi TestEmployee.java
+   76  javac TestEmployee.java 
+   77  java TestEmployee
+   78  vi TestEmployee.java
+   79  cd javatraining/day3/
+   80  ls 
+   81  open Part3-Introduction\ To\ java.pdf 
+   82  ls -alrt
+   83  vi UserChecked.java 
+   84  vi *.java
+   85  vi -p *.java
+   86  vi man
+   87  man vi
+   88  cd javatraining/
+   89  ls
+   90  cd assignments/
+   91  ls
+   92  cd day3
+   93  ls
+   94  pwd
+   95  cd ..
+   96  cd day2
+   97  ls
+   98  cd com
+   99  ls
+  100  cd liveit
+  101  ls
+  102  cd ../../..
+  103  cd day3
+  104  ls
+  105  cd ..
+  106  ls
+  107  mkdir com/liveit/
+  108  mkdir -r com/liveit/
+  109  mkdir man
+  110  rm -r man
+  111  man mkdir
+  112  mkdir -v com/liveit
+  113  man mkdir
+  114  mkdir com
+  115  mkdir liveit
+  116  pwd
+  117  cd com/liveit
+  118  ls
+  119  rm -r liveit
+  120  mkdir com/liveit
+  121  cd com/liveit
+  122  ls
+  123  pwd
+  124  mkdir pkg
+  125  cd pkd
+  126  cd pkg
+  127  pwd
+  128  vi TestException.java
+  129  pwd
+  130  cp TestException.java ../../..
+  131  cd ../../..
+  132  ls
+  133  cp TestException.java  day3
+  134  rm TestException.java 
+  135  cd day3
+  136  ls
+  137  rm TemperatureExcept*
+  138  rm Too*
+  139  ls
+  140  vi Test.java
+  141  vi TestException.java.java
+  142  vi TestException.java
+  143  pwd
+  144  vi TestException.java
+  145  javac TestException.java 
+  146  vi TestException.java
+  147  cp TestException.java TestException1.java
+  148  ci TestException1.java
+  149  cd javatraining/
+  150  ls
+  151  cd day3
+  152  ls
+  153  ls -alrt
+  154  ls L8
+  155  ls L*
+  156  vi LiveChException.java 
+  157  vi *.java
+  158  ls
+  159  cd ../..
+  160  ls
+  161  cd javatraining/
+  162  ls
+  163  cd assignments/
+  164  ls
+  165  cd day2
+  166  ls
+  167  cd com
+  168  cd liveit
+  169  ls
+  170  cd day2
+  171  ls
+  172  vi *.java
+  173  pwd
+  174  cd ../../..
+  175  ls
+  176  cd com/liveit/day3
+  177  cd com
+  178  ls
+  179  cd liveit
+  180  ls
+  181  cd ../../..
+  182  pwd
+  183  ls
+  184  cd com/liveit
+  185  ls
+  186  cd day3
+  187  ls
+  188  vi TemperatureException.java
+  189  javac *.java
+  190  pwd
+  191  javac *.java
+  192  vi TemperatureException.java
+  193  pwd
+  194  clear
+  195  pwd
+  196  javac *.java
+  197  ls
+  198  vi *.java
+  199  javac *.java
+  200  vi *.java
+  201  javac *.java
+  202  ls
+  203  vi *.java
+  204  vi *.java
+  205  javac *.java
+  206  pwd
+  207  vi *.java
+  208  javac TemperatureException.java
+  209  vi *.java
+  210  javac TemperatureException.java
+  211  vi *.java
+  212  vi *.java
+  213  vi -p *.java
+  214  vim -p *.java
+  215  cd javatraining/assignments/day3
+  216  ls
+  217  ls
+  218  javac TemperatureException.java 
+  219  javac TooHotException.java 
+  220  javac TooColdException.java 
+  221  ls
+  222  cp * /Users/ajju/javatraining/assignments/com/liveit/day3
+  223  ls
+  224  pwd
+  225  rm ls
+  226  ls
+  227  vi TestException.java 
+  228  vi TestException.java 
+  229  pwd
+  230  vi TestException.java 
+  231  javac TestException.java 
+  232  javac TestException.java 
+  233  javac TestException.java 
+  234  source ~/.bashrc
+  235  javac TestException.java 
+  236  source ~/.bashrc
+  237  javac TestException.java 
+  238  ls
+  239  vi Test.java 
+  240  vi ~/bashrc
+  241  vi ~/.bashrc
+  242  source ~/.bashrc
+  243  javac TestException.java 
+  244  javac TestException.java 
+  245  javac TestException.java 
+  246  javac TestException.java 
+  247  javac TestException.java 
+  248  javac TestException.java 
+  249  javac TestException.java 
+  250  javac TestException.java 
+  251  javac TestException.java 
+  252  javac TestException.java 
+  253  javac TestException.java 
+  254  java TestException
+  255  javac TestException.java 
+  256  java TestException
+  257  javac TestException.java 
+  258  java TestException
+  259  javac TestException.java 
+  260  ls
+  261  vi TestException1.java
+  262  vi TestException.java
+  263  rm TestException1.java,v 
+  264  cp TestException.java TestException1.java
+  265  vi TestException1.java 
+  266  vi TestException1.java 
+  267  pwd
+  268  vi TestException1.java 
+  269  vim TestException1.java 
+  270  cd javatraining/
+  271  ls
+  272  cd assignments/
+  273  ls
+  274  cd day3
+  275  ls
+  276  vi TemperatureException.java
+  277  cp TemperatureException.java TooColdException.java
+  278  vi TooColdException.java 
+  279  cp TemperatureException.java TooHotException.java
+  280  vi TooHotException.java 
+  281  cp TooHotException.java TooColdException.java 
+  282  vi TooColdException.java 
+  283  pwd
+  284  vi Test.java
+  285  cd ..
+  286  ls
+  287  cd com/liveit
+  288  ls
+  289  cd pkg
+  290  ls
+  291  ls
+  292  cd ..
+  293  ls
+  294  pwd
+  295  mkdir day3
+  296  cd day3
+  297  pwd
+  298  ls
+  299  javac *.java
+  300  ls
+  301  rm Test*
+  302  javac *.java
+  303  pwd
+  304  vi ~/.bashrc
+  305  vi ~/.bashrc
+  306  source ~/.bashrc
+  307  pwd
+  308  vi *.java
+  309  vi *.java
+  310  javac *.java
+  311  vi *.java
+  312  javac *.java
+  313  pwd
+  314  ls
+  315  cd ../..
+  316  ls
+  317  cd ../..
+  318  ls
+  319  cd assignments/
+  320  ls
+  321  cd day2
+  322  ls
+  323  cd com/liveit
+  324  ls
+  325  cd day2
+  326  ls
+  327  vi Car.java 
+  328  pwd
+  329  cd ../../..
+  330  pwd
+  331  cd ..
+  332  ls
+  333  cd day3
+  334  ls
+  335  javac TestException1.java
+  336  javac TestException1.java
+  337  javac TestException1.java
+  338  javac TestException1.java
+  339  clear
+  340  javac TestException.java
+  341  source ~/.bashrc
+  342  javac TestException1.java
+  343  javac TestException1.java
+  344  java TestException
+  345  javac TestException1.java
+  346  javac TestException1.java
+  347  java TestException
+  348  javac TestException1.java
+  349  java TestException
+  350  java TestException
+  351  javac TestException1.java
+  352  java TestException
+  353  javac TestException1.java
+  354  java TestException
+  355  javac TestException1.java
+  356  clear
+  357  javac TestException1.java
+  358  javac TestException1.java
+  359  javac TestException1.java
+  360  javac TestException1.java
+  361  javac TestException1.java
+  362  javac TestException1.java
+  363  javac TestException1.java
+  364  javac TestException1.java
+  365  javac TestException1.java
+  366  javac TestException1.java
+  367  javac TestException1.java
+  368  javac TestException1.java
+  369  javac TestException1.java
+  370  javac TestException1.java
+  371  javac TestException1.java
+  372  javac TestException1.java
+  373  vi TestException.java
+  374  javac TestException1.java
+  375  javac TestException1.java
+  376  cd javatraining/
+  377  ls
+  378  cd lectures/
+  379  ls
+  380  cd day2
+  381  ls
+  382  vi TestLateBinding.java 
+  383  cd ../day3
+  384  ls
+  385  vi *.java
+  386  cd javatraining/
+  387  ls
+  388  cd lectures/
+  389  cd day3
+  390  ls
+  391  open Part3-Introduction\ To\ java.pdf 
+  392  cd javatraining/
+  393  ls
+  394  rm -r day3
+  395  ls
+  396  cd javatraining1/
+  397  ls
+  398  cd ..
+  399  rm javatraining1/
+  400  rm -r javatraining1/
+  401  ls
+  402  cd assignments/
+  403  ls
+  404  cd day3
+  405  ls
+  406  cd ..
+  407  cd day2
+  408  ls
+  409  cd com/liveit/day2
+  410  ls
+  411  mv * /Users/ajju/javatraining/assignments/com/liveit/day2/.
+  412  ls
+  413  cd ../../..
+  414  ls
+  415  rm -r com
+  416  ls
+  417  ls
+  418  cd javatraining/
+  419  ls
+  420  hg push
+  421  cd ..
+  422  ls
+  423  cd ..
+  424  ls -alrt
+  425  cd ajju
+  426  ls -alrt
+  427  vi .hgrc
+  428  vi .bashrc
+  429  vi vimrc
+  430  vi vimrc
+  431  vi .vimrc
+  432  vi .vimrc
+  433  hg clone https://bitbucket.org/meazu/javatraining1
+  434  ls
+  435  cd Downloads/
+  436  ls
+  437  ls -lrt
+  438  ls -lrt
+  439  cp ManasaKarumuriResume.docx.doc ManasaKarumuriResume.doc
+  440  ab 
+  441  ab -c 1 http://yahoo.com
+  442  ab -c 1 http://www.yahoo.com
+  443  ab -c 1 "http://www.yahoo.com"
+  444  ab -c 1 "http://yahoo.com"
+  445  ab -n 100 -c 1 "http://yahoo.com"
+  446  ab -n 100 -c 1 http://yahoo.com
+  447  ab -n 100 -c 1 http://yahoo.com/home/html
+  448  ab -n 100 -c 1 http://yahoo.com/home.html
+  449  ab -n 100 -c 1 http://yahoo.com/
+  450  ab -n 1000 -c 100 http://yahoo.com/
+  451  ab -n 1000 -c 100 http://yahoo.com/
+  452  ab -n 100 -c 10 http://yahoo.com/
+  453  curl http://yahoo.com
+  454  curl http://www.yahoo.com
+  455  ab -n 100 -c 10 http://www.yahoo.com/
+  456  ab -n 10 -c 1 http://www.yahoo.com/
+  457  ab -n 10 -c 1 http://www.yahoo.com/
+  458  ab -n 5 -c 1 http://www.yahoo.com/
+  459  ab -n 5 -c 1 http://www.google.com/
+  460  git --version
+  461  git --version
+  462  ll
+  463  ls
+  464  sudo apy-get install git
+  465  sudo apt-get install git
+  466  git
+  467  brew install git
+  468  sudo suman
+  469  su suman
+  470  which git
+  471  /bin/zsh 
+  472  su suman
+  473  cls
+  474  clear 
+  475  echo PATH
+  476  echo $PATH
+  477  echo $PATH
+  478  vi ~/.bashrc 
+  479  vi ~/.bash_profile
+  480  source ~/.bash_profile 
+  481  source ~/.bash_profile 
+  482  vi ~/.bash_profile
+  483  source ~/.bash_profile 
+  484  /usr/local/git/bin/git
+  485  /usr/local/git/bin/
+  486  ls /usr/local/git/bin/
+  487  ls
+  488  env
+  489  cls
+  490  /usr/local/git/bin/git
+  491  vi ~/.bashrc 
+  492  source 
+  493  vi ~/.bashrc 
+  494  sou 
+  495  source 
+  496  source ~/.bashrc 
+  497  sou 
+  498  git
+  499  git init my_cool_project
+  500  uname
+  501  ls
+  502  man ls
+  503  ls -tz
+  504  ls -tZ
+  505  ls -a
+  506  pwd
+  507  ls ..
+  508  ls -lrt
+  509  brew update
+  510  ls
+  511  history
+  512  history > moving_around.txt
