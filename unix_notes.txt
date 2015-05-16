@@ -1,3 +1,4 @@
+   #list hidden directories
    13  vi Test.java
    14  javac Test.java
    15  vi a.java
